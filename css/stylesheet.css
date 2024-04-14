@@ -32,11 +32,20 @@
     padding: 0;
 }
 
-.container-fluid > .row > .col-12{
+.container-fluid > .imasha > .col-12{
     display: grid;
     justify-content: center;
     padding-top: 10px;
     height: 45px;
     background-color: black;
     color: white;
+}
+
+.container-fluid > .row > .logo{
+    padding-left: 30px;
+}
+
+.container-fluid > .row > .searchBar > form > input{
+    width: 100%;
+    margin-left/999: 50px;
 }
